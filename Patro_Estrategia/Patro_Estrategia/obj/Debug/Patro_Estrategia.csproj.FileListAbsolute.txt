@@ -1,0 +1,6 @@
+c:\users\music\documents\visual studio 2015\Projects\Patro_Estrategia\Patro_Estrategia\bin\Debug\Patro_Estrategia.exe.config
+c:\users\music\documents\visual studio 2015\Projects\Patro_Estrategia\Patro_Estrategia\bin\Debug\Patro_Estrategia.exe
+c:\users\music\documents\visual studio 2015\Projects\Patro_Estrategia\Patro_Estrategia\bin\Debug\Patro_Estrategia.pdb
+c:\users\music\documents\visual studio 2015\Projects\Patro_Estrategia\Patro_Estrategia\obj\Debug\Patro_Estrategia.csprojResolveAssemblyReference.cache
+c:\users\music\documents\visual studio 2015\Projects\Patro_Estrategia\Patro_Estrategia\obj\Debug\Patro_Estrategia.exe
+c:\users\music\documents\visual studio 2015\Projects\Patro_Estrategia\Patro_Estrategia\obj\Debug\Patro_Estrategia.pdb

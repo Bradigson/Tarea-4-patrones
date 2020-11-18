@@ -1,0 +1,6 @@
+c:\users\music\documents\visual studio 2015\Projects\Patron-Metodo-Fabrica\Patron-Metodo-Fabrica\bin\Debug\Patron-Metodo-Fabrica.exe.config
+c:\users\music\documents\visual studio 2015\Projects\Patron-Metodo-Fabrica\Patron-Metodo-Fabrica\bin\Debug\Patron-Metodo-Fabrica.exe
+c:\users\music\documents\visual studio 2015\Projects\Patron-Metodo-Fabrica\Patron-Metodo-Fabrica\bin\Debug\Patron-Metodo-Fabrica.pdb
+c:\users\music\documents\visual studio 2015\Projects\Patron-Metodo-Fabrica\Patron-Metodo-Fabrica\obj\Debug\Patron-Metodo-Fabrica.csprojResolveAssemblyReference.cache
+c:\users\music\documents\visual studio 2015\Projects\Patron-Metodo-Fabrica\Patron-Metodo-Fabrica\obj\Debug\Patron-Metodo-Fabrica.exe
+c:\users\music\documents\visual studio 2015\Projects\Patron-Metodo-Fabrica\Patron-Metodo-Fabrica\obj\Debug\Patron-Metodo-Fabrica.pdb

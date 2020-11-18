@@ -1,0 +1,6 @@
+c:\users\music\documents\visual studio 2015\Projects\Patron-template\Patron-template\bin\Debug\Patron-template.exe.config
+c:\users\music\documents\visual studio 2015\Projects\Patron-template\Patron-template\obj\Debug\Patron-template.csprojResolveAssemblyReference.cache
+c:\users\music\documents\visual studio 2015\Projects\Patron-template\Patron-template\bin\Debug\Patron-template.exe
+c:\users\music\documents\visual studio 2015\Projects\Patron-template\Patron-template\bin\Debug\Patron-template.pdb
+c:\users\music\documents\visual studio 2015\Projects\Patron-template\Patron-template\obj\Debug\Patron-template.exe
+c:\users\music\documents\visual studio 2015\Projects\Patron-template\Patron-template\obj\Debug\Patron-template.pdb
